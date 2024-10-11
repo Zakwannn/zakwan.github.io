@@ -1,3 +1,3 @@
 # zakwan.github.io
 tittle<SUMPAHH
-><img src="img/poster.jpg" alt="Hero Image">
+><img src="https://www.google.com/imgres?q=bni&imgurl=https%3A%2F%2Frec-data.kalibrr.com%2Fwww.kalibrr.com%2Flogos%2FDDQ9T8CUWX88BAHRL7THYLPKEYQ9JUEGJJXZM77Q-66022fe9.jpg&imgrefurl=https%3A%2F%2Fwww.kalibrr.com%2Fc%2Fpt-bank-negara-indonesia-persero-tbk%2Fjobs&docid=yAIEkOwMu_yaYM&tbnid=rIa1WbSepDIIcM&vet=12ahUKEwie2Oy3goaJAxVmSWwGHT5eEBQQM3oECGMQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwie2Oy3goaJAxVmSWwGHT5eEBQQM3oECGMQAA alt="Hero Image">
